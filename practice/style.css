@@ -1,0 +1,160 @@
+/* /* .border1{
+    margin-top: -8px;
+    padding: 5px;
+
+}
+.border2{
+    display: flex;
+    width: 100px;
+
+}
+.cla1{
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+ }
+ /* .cla2{
+    width: 15%;
+    height: 100%;
+    border: solid;
+    color: black;
+    margin-top: 5px;
+    padding-top: 5x;
+} 
+.cal3{
+    justify-content: space-evenly;
+}  */
+.container1{
+    width: 30%;
+    height: 100%;
+    background-color: #dcdac1;
+}
+.class1{
+    height: 50px;
+    background-color: #ce694b;
+}
+.class2{
+    width: 50px;
+    border: 1px solid black;
+    height: 50px;
+    border-radius: 5px;
+    margin-top: 5px;
+    background-color: #5f9ad4;
+}
+.class3{
+    width: 70px;
+    border: 1px solid black;
+    height: 50px;
+    border-radius: 5px;
+    margin-top: 5px;
+    background-color:#5f9ad4;
+}
+.abc{
+    display: flex;
+    justify-content: space-evenly;
+}
+.class4{
+    border: 1px solid black;
+    width: 50px;
+    height: 50px;
+    border-radius: 5px;
+    margin-top: 5px;
+
+}
+.aaa{
+    height: 15px;
+    background-color: #af9587;
+   
+}
+.aab{
+    height: 15px;
+    background-color: greenyellow;
+    
+}
+.AABB{
+    display: flex;
+    justify-content: space-evenly;
+}
+.class5{
+    border: 1px solid black;
+    width: 70px;
+    height: 50px;
+    border-radius: 5px;
+    margin-top: 5px;
+
+}
+.class6{
+    width: 50px;
+    border: 1px solid black;
+    height: 60px;
+    border-radius: 5px;
+    margin-top: 5px;
+
+}
+
+ .class7{
+    width: 70px;
+    border: 1px solid black;
+    height: 60px;
+    border-radius: 5px;
+    margin-top: 5px;
+
+ }
+    
+
+    
+
+
+.BBAA{
+    display: flex;
+    justify-content: space-evenly;
+}
+.box1{
+    width: 50px;
+    height: 50px;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin-top: 5px;
+
+
+}
+.box2{
+    width: 70px;
+    height: 15px;
+    border: 1px solid black;
+    margin-top: 18px;
+    background-color: #8f669f;
+
+}
+.box3{
+    width: 70px;
+    height: 50px;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin-top: 5px;
+}
+.box4{
+    width: 50px;
+    height: 50px;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin-top: 5px;
+    background-color:;
+    
+}
+.box{
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+.boss{
+    width: 400px;
+    height: 30px;
+    border: 1px solid black;
+    border-radius: 6px;
+    justify-content: space-evenly;
+    margin-top: 10px;
+    background-color: #436ca4;
+
+}
+
